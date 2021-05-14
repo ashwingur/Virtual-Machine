@@ -1,0 +1,4 @@
+FUNC LABEL 0
+    PRINT VAL 3
+    NOT VAL 1
+    RET
